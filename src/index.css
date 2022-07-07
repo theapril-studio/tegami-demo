@@ -1,0 +1,15 @@
+@tailwind base;
+
+@layer base {
+  body {
+    @apply bg-tegami-100;
+    @apply font-serif;
+    @apply text-tegami-900;
+    /* @apply antialiased; */
+    @apply items-center;
+    @apply justify-center;
+  } 
+}
+
+@tailwind components;
+@tailwind utilities;
