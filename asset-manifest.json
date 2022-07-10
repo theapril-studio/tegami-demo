@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tegami-demo/static/css/main.5d242a2d.css",
-    "main.js": "/tegami-demo/static/js/main.c3c0f7d6.js",
+    "main.css": "/tegami-demo/static/css/main.692f9c24.css",
+    "main.js": "/tegami-demo/static/js/main.fc3eedcb.js",
     "static/js/787.5adb8a02.chunk.js": "/tegami-demo/static/js/787.5adb8a02.chunk.js",
     "index.html": "/tegami-demo/index.html",
     "static/media/icon.svg": "/tegami-demo/static/media/icon.92d9c7f053f6bee129c010e81ee10bd9.svg",
-    "main.5d242a2d.css.map": "/tegami-demo/static/css/main.5d242a2d.css.map",
-    "main.c3c0f7d6.js.map": "/tegami-demo/static/js/main.c3c0f7d6.js.map",
+    "main.692f9c24.css.map": "/tegami-demo/static/css/main.692f9c24.css.map",
+    "main.fc3eedcb.js.map": "/tegami-demo/static/js/main.fc3eedcb.js.map",
     "787.5adb8a02.chunk.js.map": "/tegami-demo/static/js/787.5adb8a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d242a2d.css",
-    "static/js/main.c3c0f7d6.js"
+    "static/css/main.692f9c24.css",
+    "static/js/main.fc3eedcb.js"
   ]
 }
